@@ -1,11 +1,11 @@
 /**
- * @name Zelk
- * @version 1.2.2
- * @description a smooth theme inspired by zorin
- * @author schnensch
- * @authorId 652801938374656013
- * @source https://github.com/schnensch0/zelk
- * @invite tMEcBhsNqA
+ * @name amp
+ * @version 1.1.0
+ * @description based theme
+ * @author afwx
+ * @authorId null (for now)
+ * @source https://github.com/iTzUltraX/amp
+ * @invite null (for now (maybe not (but idk)))
  */
  /*                                    *\
 |         __ _ _ __ ___  _ __            |
@@ -19,6 +19,7 @@
 @import url(https://schnensch0.github.io/zelk/main.css);
 @import url(https://discord-custom-covers.github.io/usrbg/dist/usrbg.css);
 @import url(https://mwittrien.github.io/BetterDiscordAddons/Themes/_res/SettingsIcons.css);
+@import url('https://fonts.cdnfonts.com/css/whitney-2');
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css); */
