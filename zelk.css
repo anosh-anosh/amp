@@ -1,13 +1,18 @@
-/*         ▀▀█ █▀▀ █   █ █
-           ▄▀  █▀▀ █   █▀▄
-           ▀▀▀ ▀▀▀ ▀▀▀ ▀ ▀           */
+ /*                                   *\
+|         __ _ _ __ ___  _ __           |
+|        / _` | '_ ` _ \| '_ \          |
+|       | (_| | | | | | | |_) |         |
+|        \__,_|_| |_| |_| .__/          |
+|                       | |             |
+|                       |_|             |
+ \*                                   */
 /*--------------IMPORTS------------- */
 @import url(https://schnensch0.github.io/zelk/main.css);
 @import url(https://crearts-community.github.io/Settings-Icons/clients/powercord.css);
 /*--------------COLORS---------------*/
 /*------remove / and * to apply------*/
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/blue.css); */
-/* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/green.css); */
+@import url(https://raw.githack.com/schnensch0/zelk/main/colors/green.css);
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/gray.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/orange.css); */
 /* @import url(https://raw.githack.com/schnensch0/zelk/main/colors/purple.css); */
