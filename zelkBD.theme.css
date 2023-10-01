@@ -42,8 +42,8 @@
   /* set to 'Inter', sans-serif !important to use Inter font*/
   --font-primary: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif;
   --font-display: Whitney, "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  --border-radius-1: 10px;
-  --border-radius-2: 8px;
+  --border-radius-1: 20px;
+  --border-radius-2: 12.5px;
 }
 /*-----------CUSTOM COLORS-----------*/
 /*-------------DARK MODE-------------*/
