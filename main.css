@@ -2039,3 +2039,7 @@ div#message-actions {
     width: 15px;
     border-radius: 1504in 0 0 1504in;
 }
+
+img[src="https://media.discordapp.net/stickers/1039992459209490513.png"] {
+  display: none;
+}
